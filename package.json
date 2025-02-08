@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@tailwindcss/cli": "^4.0.3",
+    "flowbite": "^3.1.1",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^4.0.3"
+  },
+  "name": "appexy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {},
+  "description": ""
+}
